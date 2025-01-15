@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But do not ignore specific files or directories
+!.gitignore
+!README.md
+!stats_test.py
+!survey_result.csv
+!requirement.txt
