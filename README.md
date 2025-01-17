@@ -23,7 +23,12 @@ Install the necessary dependencies by running the following command:
 ```bash
 pip install -r requirements.txt
 ```
-### 4. Run the Statistical Tests
+### 4. Run the Correlation Calculation (Result of Section 4.1)
+Execute the code to calculate the correlation:
+```bash
+python correlation.py
+```
+### 5. Run the Statistical Tests (Result of Section 4.2)
 Execute the code to perform the statistical tests:
 ```bash
 python stats_test.py
