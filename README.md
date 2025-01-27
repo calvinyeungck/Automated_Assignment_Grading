@@ -3,7 +3,7 @@
 This repository contains the code and resources for the paper titled **"A Zero-Shot LLM Framework for Automatic Assignment Grading in Higher Education."** It includes the survey results and the code used for analysis in the paper.
 
 <p align="center">
-  <img src="./img/fig1.png" alt="System Overview" width="600"/>
+  <img src="https://anonymous.4open.science/r/Automated_Assignment_Grading-859F/img/fig1.png" alt="System Overview" width="600"/>
 </p>
 
 - **Importance of Automated Grading**: Automated grading is crucial in education technology as it allows for efficient assessment of large volumes of student work, ensures consistent and unbiased evaluations, and provides immediate feedback to enhance learning.
