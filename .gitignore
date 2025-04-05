@@ -4,12 +4,12 @@
 # But do not ignore specific files or directories
 !.gitignore
 !README.md
-!stats_test.py
-!survey_result.csv
+!code/stats_test.py
+!code/survey_result.csv
 !requirement.txt
-!fig1.png
+!code/fig1.png
 !img/
-!correlation.py
-!df_Q1.csv
-!df_Q2.csv
+!code/correlation.py
+!code/df_Q1.csv
+!code/df_Q2.csv
 !Appendix.pdf
