@@ -1,4 +1,5 @@
 # 📝 A Zero-Shot LLM Framework for Automatic Assignment Grading in Higher Education
+[![arXiv](https://img.shields.io/badge/arXiv-2501.14305-b31b1b.svg)](https://arxiv.org/abs/2501.14305)
 
 This repository contains the code and resources for the paper titled **"A Zero-Shot LLM Framework for Automatic Assignment Grading in Higher Education."** It includes the survey results and the code used for analysis in the paper.
 
